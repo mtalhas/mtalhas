@@ -4,7 +4,7 @@
 
 ## Glad to see you here
 
-My name is Muhammad Talha Siddiqui and I am a software specialist. I'm from Pakistan and working with Architecture In Motion Inc. I can define myself as a problem solver with a diverse skill set encompassing software development, solutions architecture and DevOps. You can find me on [![X][1.1]][1], or on [![LinkedIn][1.2]][2]. I believe in `automating the mundane things in life, to focus on what matters`.
+My name is Muhammad Talha Siddiqui and I am a software specialist. I'm from Pakistan and working with Architecture In Motion Inc. I can define myself as a problem solver and a software specialist with a diverse skill set encompassing software development, solutions architecture and DevOps. You can find me on [![X][1.1]][1], or on [![LinkedIn][1.2]][2]. I believe in `automating the mundane things in life, to focus on what matters`.
 
 
 <!-- Icons -->
