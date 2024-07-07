@@ -11,7 +11,7 @@ My name is Muhammad Talha Siddiqui and I am a software specialist. I'm from Paki
 
 [1.1]: ./assets/x_logo.png (https://x.com/mdtalhas)
 [1.2]: ./assets/linkedin_logo.png (https://linkedin.com/in/mtalhas)
-[1.3]: ./assets/banner.png (self logo)
+[1.3]: ./assets/banner.png (https://github.com/mtalhas)
 
 <!-- Links to your social media accounts -->
 
