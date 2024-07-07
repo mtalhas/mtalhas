@@ -62,7 +62,10 @@ My name is Muhammad Talha Siddiqui and I am a software specialist. I'm from Paki
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-plastic&logo=terraform&logoColor=white)
 
 ### ASP.NET Core
-
+![EntityFramework](https://img.shields.io/badge/Entity%20Framework-692079?style=flat-plastic&logo=framework&logoColor=white)
+![NewtonsoftJson](https://img.shields.io/badge/Newtonsoft.JSON-FF0082?style=flat-plastic&logo=framework&logoColor=white)
+![GraphQLHotChocolate](https://img.shields.io/badge/Hot%20Chocolate-E3000F?style=flat-plastic&logo=graphql&logoColor=white)
+![BlazorSyncfusion](https://img.shields.io/badge/Blazor%20Syncfusion-5D2D92?style=flat-plastic&logo=blazor&logoColor=white)
 
 
 ### HTML5
@@ -73,7 +76,7 @@ My name is Muhammad Talha Siddiqui and I am a software specialist. I'm from Paki
 
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-plastic&logo=mysql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat-plastic&logo=microsoft%20sql%20server&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat-plastic&logo=database&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-plastic&logo=mariadb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-plastic&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-plastic&logo=sqlite&logoColor=white)
@@ -83,6 +86,7 @@ My name is Muhammad Talha Siddiqui and I am a software specialist. I'm from Paki
 
 ### Knowlege
 ![MVC](https://img.shields.io/badge/-MVC-FF6347?style=flat-plastic&logo=dotnet&logoColor=white)
+![DependencyInjection](https://img.shields.io/badge/-Dependency%20Injection-46AEB4?style=flat-plastic&logo=dotnet&logoColor=white)
 ![Modular Architecture](https://img.shields.io/badge/-Modular_Architecture-4682B4?style=flat-plastic&logo=python&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/-Clean_Architecture-DA70D6?style=flat-plastic&logo=python&logoColor=white)
 ![SOLID Principles](https://img.shields.io/badge/-SOLID_Principles-FF69B4?style=flat-plastic&logo=python&logoColor=white)
