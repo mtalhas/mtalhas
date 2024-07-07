@@ -35,7 +35,9 @@ My name is Muhammad Talha Siddiqui and I am a software specialist. I'm from Paki
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7E01D?style=flat-plastic&logo=javascript&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-EE2028?style=flat-plastic&logo=&logoColor=white)
 ![C%2B%2B](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-plastic&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-plastic&logo=php&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-plastic&logo=gnu-bash&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat-plastic&logo=rust&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-plastic&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-plastic&logo=php&logoColor=white) 
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-plastic&logo=gnu-bash&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat-plastic&logo=rust&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-plastic&logo=css3&logoColor=white)
 
 ### 🧰 Frameworks & Libraries
 
