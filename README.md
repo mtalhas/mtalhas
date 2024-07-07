@@ -2,7 +2,7 @@
 
 # <img src="./assets/wave.gif" width="30px"> Hey there! I'm [Talha Siddiqui](https://mtalhas.github.io)
 
-## Glad to see you here &nbsp; ![Visitor's count](https://visitor-badge.glitch.me/badge?page_id=mtalhas&style=flat-square&color=0088cc)
+## Glad to see you here
 
 My name is Muhammad Talha Siddiqui and I am a software specialist. I'm from Pakistan and working with Architecture In Motion Inc. I can define myself as a problem solver with a diverse skill set encompassing software development, solutions architecture and DevOps. You can find me on [![X][1.1]][1], or on [![LinkedIn][1.2]][2]. I believe in `automating the mundane things in life, to focus on what matters`.
 
