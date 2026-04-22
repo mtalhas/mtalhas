@@ -99,10 +99,6 @@ AI/ML Tech Lead and Solutions Architect with 10+ years of experience in enterpri
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-plastic&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-%23172BF4.svg?style=flat-plastic&logo=confluence&logoColor=white)
 
-## 📈 GitHub Stats
-
-![Talha's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtalhas&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)
-
 ## 📫 How to reach me
 
 - LinkedIn: [linkedin.com/in/mtalhas](https://www.linkedin.com/in/mtalhas)
